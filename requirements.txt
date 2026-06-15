@@ -1,5 +1,12 @@
-streamlit
-plotly
-pandas
+# --- Core data ---
+panda
 numpy
 openpyxl
+python-calamine
+
+# --- Visualisation ---
+plotly
+matplotlib
+
+# --- Streamlit version ---
+streamlit
